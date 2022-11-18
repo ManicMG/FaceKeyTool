@@ -1,5 +1,5 @@
 # FaceKeyTool
-THIS ADDON IS AN EARLY VERSION - I recomend creating a new save or backup before use.
+THIS ADDON IS AN EARLY VERSION - I recommend creating a new save or backup before use.
 An addon for Blender to aid in working with IOS ARKit and Shapekeys in general
 
 Most of these tools are quality of life improvements:
